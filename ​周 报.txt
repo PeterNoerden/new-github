@@ -1,0 +1,7 @@
+​						周	报
+
+1. 研究rails、ruby、grape、I18n国际化、pgsql数据库、测试编写的API接口；
+
+2. 研究web_api_doc-master 项目中，API接口、参数。
+
+   ​								——编写人：张贺
